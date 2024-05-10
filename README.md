@@ -447,5 +447,7 @@ Pharmaceutical companies also face trouble during the drugs sale and purchase. A
 
 ![Screenshot 2024-05-10 182722](https://github.com/sreevarshad/Pharma/assets/128129573/dd7d950b-941c-455f-9299-9267c8596aa5)
 
+![Screenshot 2024-05-10 183134](https://github.com/sreevarshad/Pharma/assets/128129573/c875bd04-589b-4232-a749-87d011dd19d2)\
+
 ## RESULT:
 The program for responsive web design using Bootstrap is completed successfully.
